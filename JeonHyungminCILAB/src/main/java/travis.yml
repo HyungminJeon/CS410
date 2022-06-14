@@ -32,5 +32,5 @@ deploy:
 provider: pages
 github-token: $GITHUB_TOKEN
 on:
-branch: gh-pages
+branch: master
 	
